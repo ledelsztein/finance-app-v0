@@ -313,7 +313,7 @@ export default function PresupuestoMensual() {
                   viewBox="0 0 44 44"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
-                  aria-label="Logo Mi Presupuesto Mensual"
+                  aria-label="Logo Mi Presupuesto"
                   role="img"
                   className="flex-shrink-0"
                 >
@@ -323,7 +323,7 @@ export default function PresupuestoMensual() {
                   <rect x="2" y="26" width="14" height="16" rx="4" fill="#88B69E" stroke="white" strokeWidth="1.2" />
                 </svg>
                 <h1 className="text-2xl md:text-3xl font-bold text-primary text-balance leading-tight">
-                  Mi Presupuesto Mensual
+Mi Presupuesto
                 </h1>
               </div>
               <p className="text-sm md:text-base text-muted-foreground mt-1 text-balance">
